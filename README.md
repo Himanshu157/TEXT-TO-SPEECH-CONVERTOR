@@ -6,5 +6,4 @@ rather than read the content,Simply Text to speech converter takes words or inpu
 from user and covert into audio.</H6>
 <BR>
 <h3>Technologies used are :</h3>
-<br>
 <h3>HTML,CSS AND JAVASCRIPT</h3>
